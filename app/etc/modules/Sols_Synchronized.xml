@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sols_Synchronized>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Sols_Synchronized>
+    </modules>
+</config>
